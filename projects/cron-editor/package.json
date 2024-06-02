@@ -1,12 +1,11 @@
 {
-  "name": "cron-editor",
-  "description": "A cron expression generator to be used in Angular applications",
+  "name": "ng-cron-editor",
+  "description": "A cron expression generator to be used in Angular applications fork of cron-editor to support angular 17",
   "author": {
-    "name": "Claudiu Constantin",
-    "email": "claudiu@fastmail.com",
-    "url": "https://claudiuconstantin.com"
+    "name": "Shawin Mendis",
+    "email": "shawinshawz@gmail.com"
   },
-  "version": "2.1.7",
+  "version": "1.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -24,7 +23,7 @@
     "quartz"
   ],
   "peerDependencies": {
-    "@angular/common": "~7.1.1",
-    "@angular/core": "^7.1.1"
+    "@angular/common": "~17.0",
+    "@angular/core": "^17.0"
   }
 }

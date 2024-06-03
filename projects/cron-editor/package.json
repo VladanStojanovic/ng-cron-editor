@@ -24,6 +24,6 @@
   ],
   "peerDependencies": {
     "@angular/common": "~17.0.0",
-    "@angular/core": "^17.0.0"
+    "@angular/core": "~17.0.0"
   }
 }

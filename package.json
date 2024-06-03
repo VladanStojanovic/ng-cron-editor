@@ -1,5 +1,5 @@
 {
-  "name": "cron-editor-app",
+  "name": "ng-cron-editor-app",
   "description": "A cron expression generator to be used in Angular applications. This is a fork of https://github.com/claudiuconstantin/cron-editor to support Angular 17",
   "author": {
     "name": "Shawin Mendis",

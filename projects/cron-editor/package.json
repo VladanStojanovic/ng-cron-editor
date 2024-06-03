@@ -1,20 +1,20 @@
 {
   "name": "ng-cron-editor",
-  "description": "A cron expression generator to be used in Angular applications fork of cron-editor to support angular 17",
+  "description": "A cron expression generator to be used in Angular applications. This is a fork of https://github.com/claudiuconstantin/cron-editor to support Angular 17",
   "author": {
     "name": "Shawin Mendis",
     "email": "shawinshawz@gmail.com"
   },
-  "version": "3.0.1",
+  "version": "4.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/claudiuconstantin/cron-editor"
+    "url": "https://github.com/ShawinMendis/cron-editor"
   },
   "bugs": {
-    "url": "https://github.com/claudiuconstantin/cron-editor/issues"
+    "url": "https://github.com/ShawinMendis/cron-editor/issues"
   },
-  "homepage": "https://github.com/claudiuconstantin/cron-editor",
+  "homepage": "https://github.com/ShawinMendis/cron-editor",
   "keywords": [
     "angular",
     "cron",

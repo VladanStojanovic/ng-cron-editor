@@ -1,20 +1,21 @@
 {
-  "name": "ng-cron-editor",
-  "description": "A cron expression generator to be used in Angular applications. This is a fork of https://github.com/claudiuconstantin/cron-editor to support Angular 17",
+  "name": "@pinetrie/ng-cron-editor",
+  "description": "A cron expression generator to be used in Angular applications. This is a fork of https://github.com/claudiuconstantin/cron-editor via https://github.com/ShawinMendis/cron-editor to support Angular 18",
   "author": {
-    "name": "Shawin Mendis",
-    "email": "shawinshawz@gmail.com"
+    "name": "PINETRIE DOO",
+    "email": "pinetrie.doo@gmail.com",
+    "url": "https://pinetrie.net"
   },
-  "version": "5.0.7",
+  "version": "18.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShawinMendis/cron-editor"
+    "url": "https://github.com/VladanStojanovic/ng-cron-editor"
   },
   "bugs": {
-    "url": "https://github.com/ShawinMendis/cron-editor/issues"
+    "url": "https://github.com/VladanStojanovic/ng-cron-editor/issues"
   },
-  "homepage": "https://github.com/ShawinMendis/cron-editor",
+  "homepage": "https://github.com/VladanStojanovic/ng-cron-editor",
   "keywords": [
     "angular",
     "cron",
@@ -23,7 +24,7 @@
     "quartz"
   ],
   "peerDependencies": {
-    "@angular/common": "^17.0.0",
-    "@angular/core": "^17.0.0"
+    "@angular/common": "^18.0.0",
+    "@angular/core": "^18.0.0"
   }
 }
